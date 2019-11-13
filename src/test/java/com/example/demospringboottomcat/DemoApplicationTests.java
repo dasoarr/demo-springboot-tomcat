@@ -1,4 +1,4 @@
-package com.example.dempspringbootvscode;
+package com.example.demospringboottomcat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
